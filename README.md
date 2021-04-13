@@ -1,5 +1,5 @@
 # Cryptogrpahy-using-DES-algorithm-in-C
-For Implementing the DES algorithm , C language is used and this done for text message encryption only.
+For Implementing the DES algorithm , C language is used and this is done for text message encryption only.
 
 DES is implemented in two parts, 1st for encryption and 2nd part is for decryption.
 
